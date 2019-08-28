@@ -13,6 +13,7 @@ namespace hello_world
             int i = 0
                 ;
             int j = 0;
+            int sum=i + j;
 
         }
     }
