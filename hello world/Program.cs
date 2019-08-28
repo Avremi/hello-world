@@ -15,7 +15,8 @@ namespace hello_world
             int j = 0;
             int sum=i + j;
             i = i + 1;
-
+            j++;
+            sum=10;
         }
     }
 }
